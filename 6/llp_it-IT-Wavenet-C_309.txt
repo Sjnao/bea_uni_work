@@ -1,1 +1,2 @@
-<speak><emphasis><prosody rate="x-high">Invece, sul tuo pianeta così piccolo, ti bastava spostare di qualche passo la sedia per ammirare il crepuscolo ogni volta che lo desideravi...</prosody></emphasis> </speak>
+<speak><prosody rate="high"><emphasis level="strong"> Un giorno, ho visto il sole tramontarequarantaquattro volte!</emphasis></prosody></speak>
+

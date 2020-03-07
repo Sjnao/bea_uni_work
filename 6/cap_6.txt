@@ -12,3 +12,9 @@
 <speak><prosody range="high">Quando è mezzogiorno negli Stati Uniti</prosody>, il sole, <emphasis>come tutti sanno</emphasis>, tramonta sulla Francia. </speak>
 <speak> <emphasis level="strong"> Basterebbe riuscire ad arrivare in Francia nel giro di un minuto</emphasis> per assistere al tramonto.</speak>
 <speak> <prosody rate="slow"><emphasis level="reduced"> Sfortunatamente, la Francia è troppo lontana.</emphasis></prosody> </speak>
+<speak><emphasis><prosody rate="x-high">Invece, sul tuo pianeta così piccolo, ti bastava spostare di qualche passo la sedia per ammirare il crepuscolo ogni volta che lo desideravi...</prosody></emphasis> </speak>
+<speak><prosody rate="high"><emphasis level="strong"> Un giorno, ho visto il sole tramontare "quarantaquattro volte!"</emphasis></prosody></speak>
+<speak>E dopo un po’ hai aggiunto:</speak>
+<speak><prosody rate="slow"><emphasis level="reduced">Sai...<break/> quando si è molto tristi si amano i tramonti...</emphasis></prosody></speak>
+<speak>Perciò, <prosody range="high">il giorno delle quarantaquattro volte,eri molto triste?</prosody></speak>
+<speak><emphasis level="reduced">Ma il piccolo principe, non rispose.</emphasis></speak>

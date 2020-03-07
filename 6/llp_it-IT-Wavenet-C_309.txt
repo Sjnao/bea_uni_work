@@ -1,2 +1,1 @@
-<speak><prosody rate="high"><emphasis level="strong"> Un giorno, ho visto il sole tramontarequarantaquattro volte!</emphasis></prosody></speak>
-
+<speak><prosody rate="high"><emphasis level="strong"> Un giorno, ho visto il sole tramontare "quarantaquattro volte!"</emphasis></prosody></speak>

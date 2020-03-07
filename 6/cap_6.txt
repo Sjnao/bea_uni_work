@@ -1,0 +1,14 @@
+<speak><emphasis level="strong">Oh, piccolo principe</emphasis><break time="200ms"/>,così ho capito, poco a poco, la tua piccola vita malinconica.</speak>
+<speak>Per molto tempo non hai avuto altra distrazione<break time="75ms"/> <prosody pitch="medium" >che la dolcezza dei tramonti.</prosody></speak>
+<speak>Ho appreso questo nuovo particolare la mattina del quarto giorno, <prosody rate="slow">quando mi hai detto:</prosody></speak>
+<speak>«Mi piacciono tanto i tramonti.</speak>
+<speak><emphasis level="moderate">Andiamo</emphasis> a vedere un tramonto...».</speak>
+<speak><prosody range="x-slow">«Ma bisogna aspettare...».</prosody></speak>
+<speak><emphasis><prosody volume="x-loud">«Aspettare cosa?».</prosody></emphasis></speak>
+<speak>«Che il sole tramonti.»</speak>
+<speak>All’inizio, sembravi molto stupito e poi hai riso di te stesso. E mi hai detto:</speak>
+<speak>«Penso sempre <emphasis>di essere a casa mia!».</emphasis></speak>
+<speak>E infatti.</speak>
+<speak><prosody range="high">Quando è mezzogiorno negli Stati Uniti</prosody>, il sole, <emphasis>come tutti sanno</emphasis>, tramonta sulla Francia. </speak>
+<speak> <emphasis level="strong"> Basterebbe riuscire ad arrivare in Francia nel giro di un minuto</emphasis> per assistere al tramonto.</speak>
+<speak> <prosody rate="slow"><emphasis level="reduced"> Sfortunatamente, la Francia è troppo lontana.</emphasis></prosody> </speak>

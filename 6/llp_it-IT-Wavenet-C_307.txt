@@ -1,0 +1,1 @@
+<speak> <prosody rate="slow"><emphasis level="reduced"> Sfortunatamente, la Francia è troppo lontana.</emphasis></prosody> </speak>

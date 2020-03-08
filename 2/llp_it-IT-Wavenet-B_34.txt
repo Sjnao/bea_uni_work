@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="110%" volume="+6.0dB">Sono saltato in piedi, come colpito da un fulmine. </prosody></speak>

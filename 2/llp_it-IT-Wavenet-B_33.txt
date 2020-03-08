@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB">Diceva:</prosody><prosody pitch="+4st" rate="95%" volume="+6.0dB">«Per favore... disegnami una pecora!».</prosody><prosody pitch="-1st" rate="75%" volume="+6.0dB"><break strength="x-weak" time="-0.3s"/>«Cosa?».</prosody><prosody pitch="+4st" rate="95%" volume="+6.0dB">«Disegnami una pecora...».</prosody></speak>

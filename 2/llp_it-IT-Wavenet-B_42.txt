@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="100%" volume="+6.0dB">Ora, il mio ometto non mi sembrava né smarrito... né morto di fatica... né morto di fame... né morto di sete... né morto di paura.</prosody></speak>

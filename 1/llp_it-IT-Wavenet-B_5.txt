@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB">Allora ho molto riflettuto sulle avventure della giungla, </prosody><prosody pitch="+1st" rate="95%" volume="+6.0dB">e a mia volta sono riuscito, con una matita colorata,<break strength="x-weak" time="0.2s"/>a tracciare il mio primo disegno.</prosody></speak>

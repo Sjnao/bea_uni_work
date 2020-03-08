@@ -1,0 +1,1 @@
+<speak><prosody pitch="-4st" rate="100%" volume="+6.0dB">Non è colpa mia. Quando avevo sei anni, gli adulti avevano scoraggiato le mie ambizioni di pittore, e non avevo imparato a disegnare nient’altro che serpenti boa, dal di fuori, o dal di dentro.</prosody></speak>

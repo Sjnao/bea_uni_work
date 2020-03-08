@@ -1,0 +1,1 @@
+<speak><p><prosody pitch="-1st" rate="95%" volume="+6.0dB">Ho vissuto a lungo tra gli adulti.<prosody range="low">Li ho osservati da molto vicino. </prosody><break strength="x-medium" time="0.3s"/>La mia opinione, non è migliorata poi così          tanto.</prosody></p></speak>

@@ -1,0 +1,1 @@
+<speak><p><prosody pitch="-1st" rate="95%" volume="+6.0dB"><s>Ho volato quasi dappertutto su e giù per il mondo. </s><s><prosody range="low">E la geografia, questo è vero, mi è molto servita. </prosody></s></prosody></p></speak>

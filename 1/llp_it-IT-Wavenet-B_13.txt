@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB"><prosody range="x-low">Gli adulti mi hanno consigliato di lasciar stare i disegni di serpenti boa, dal di dentro o dal di fuori che fossero, e di interessarmi piuttosto alla geografia, alla storia, alla matematica e alla grammatica. </prosody></prosody></speak>

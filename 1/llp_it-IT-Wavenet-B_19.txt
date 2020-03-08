@@ -1,0 +1,1 @@
+<speak><p><prosody pitch="-1st" rate="95%" volume="+6.0dB"><s>Sapevo distinguere, a colpo d’occhio, la Cina dall’Arizona.</s> <s><prosody pitch="x-medium" rate="90%">E questo è molto utile quando ci si perde durante la notte. </prosody></s></prosody></p></speak>

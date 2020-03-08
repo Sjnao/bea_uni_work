@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB">Quando ho mostrato il mio capolavoro agli adulti, ho voluto sapere se ne erano impauriti.</prosody></speak>

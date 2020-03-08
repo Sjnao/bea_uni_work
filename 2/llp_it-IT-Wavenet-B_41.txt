@@ -1,0 +1,1 @@
+<speak><prosody pitch="-2st" rate="100%" volume="+6.0dB">Non dimenticate, che mi trovavo a mille miglia dal primo centro abitato.</prosody></speak>

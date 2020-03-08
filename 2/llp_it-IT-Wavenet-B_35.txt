@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB">Mi sono stropicciato per bene gli occhi e mi sono guardato attentamente intorno. </prosody></speak>

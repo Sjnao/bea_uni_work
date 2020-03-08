@@ -1,0 +1,1 @@
+<speak><emphasis level="low">Ecco una copia di quel disegno.</speak>

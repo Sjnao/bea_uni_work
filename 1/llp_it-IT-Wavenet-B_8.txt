@@ -1,0 +1,1 @@
+<speak><p><s><prosody pitch="+10Hz" rate="95%" volume="+6.0dB">Loro mi hanno risposto:</prosody></s><s><prosody range="high">«Perché un cappello   dovrebbe farci paura?»</prosody></s></p></speak>

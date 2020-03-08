@@ -1,0 +1,1 @@
+<speak><prosody pitch="-5st" rate="85%" volume="+6.0dB"><break strength="x-weak" time="0.8s"/>Hanno sempre bisogno di spiegazioni.</prosody></speak>

@@ -1,0 +1,1 @@
+<speak><prosody pitch="medium"><prosody pitch="-1st" rate="90%" volume="+6.0dB">Ho visto un ometto dall’aria straordinariamente distinta, che mi osservava serio. </prosody></prosody></speak>

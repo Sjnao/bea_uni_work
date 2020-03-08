@@ -1,0 +1,1 @@
+<speak><p><s><emphasis level="low"> Nel libro c’era <prosody pitch="low" >scritto</prosody>: </s><s><emphasis level="strong">«I serpenti boa ingoiano la loro preda tutta intera, senza masticarla.</emphasis></s><s>Dopo non possono più muoversi, e dormono per i sei mesi che impiegano a digerire».</s></p></speak>

@@ -1,0 +1,1 @@
+<speak><prosody pitch="medium"><prosody pitch="-1st" rate="95%" volume="+6.0dB">Ecco il miglior ritratto che in seguito, sono riuscito a fare di lui.</prosody></prosody></speak>

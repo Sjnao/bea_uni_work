@@ -1,0 +1,1 @@
+<speak><prosody pitch="-4st" rate="90%" volume="+6.0dB"> Ma a quel punto mi ricordai, di avere studiato soprattutto la geografia, la storia, la matematica e la grammatica, e dissi all’ometto (con una punta di nervosismo) che non sapevo disegnare. </prosody></speak>

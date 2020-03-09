@@ -1,0 +1,1 @@
+<speak><prosody pitch="-2st" rate="90%" volume="+6.0dB"> Ci riprovai...,:<break strength="x-weak" time="0.6s"/>Il mio amico, mi sorrise gentilmente, con indulgenza:</prosody><prosody pitch="+4st" rate="85%" volume="+6.0dB">«Lo vedi anche da te, non è una pecora. È un montone. Ha le corna...».</prosody></speak>

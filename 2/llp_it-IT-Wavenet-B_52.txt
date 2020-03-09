@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="90%" volume="+6.0dB"> Allora provaii a disegnarla. Lui la esaminò con attenzione, e poi:</prosody><prosody pitch="+4st" rate="95%" volume="+6.0dB">«No! Questa è già ammalata. Fammene un’altra». </prosody></speak>

@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB"> Lui mi rispose:<prosody pitch="+4st" rate="95%" volume="+6.0dB">«Questo non importa. Disegnami una pecora».</prosody></prosody></speak>

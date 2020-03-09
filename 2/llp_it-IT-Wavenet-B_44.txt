@@ -1,0 +1,1 @@
+<speak><prosody pitch="-3st" rate="95%" volume="+6.0dB">Quando infine riuscii a parlare, gli dissi:<prosody pitch="+3st" rate="95%" volume="+6.0dB">«Ma... che ci fai, qui?».</prosody></prosody></speak>

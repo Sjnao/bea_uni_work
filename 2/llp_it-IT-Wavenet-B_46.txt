@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB">Quando il mistero... è così stupefacente, non ci si azzarda a disobbedire.</prosody></speak>

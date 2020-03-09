@@ -1,0 +1,1 @@
+<speak><prosody pitch="-2st" rate="80%" volume="+6.0dB"> Allora, persa la pazienza, e con la fretta di iniziare a smontare il motore, scarabocchiai questo disegno.<break strength="x-strong" time="0.9s"/>E me ne uscii così."Questa è la cassetta. La pecora che vuoi è lì dentro".</speak>

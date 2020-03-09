@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB"> Lui chinò la testa sul disegno.</prosody><prosody pitch="+4st" rate="85%" volume="+6.0dB">«Non così piccola  come,... Guarda!Si è addormentata...».</prosody><prosody pitch="-1st" rate="90%" volume="+6.0dB">  Fu così, che conobbi il piccolo principe.</prosody></speak>

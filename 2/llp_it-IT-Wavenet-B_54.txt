@@ -1,0 +1,1 @@
+<speak><prosody pitch="-2st" rate="90%" volume="+6.0dB"> Rifeci ancora una volta il disegno. Ma fu respinto come i precedenti:<break strength="x-weak" time="0.6s"/></prosody><prosody pitch="+4st" rate="85%" volume="+6.0dB">«Questa è troppo vecchia. Voglio una pecora che viva a lungo».</prosody></speak>

@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="90%" volume="+6.0dB"> E rimasi stupefatto, ascoltando la risposta dell’ometto:</prosody><prosody pitch="+4st" rate="95%" volume="+6.0dB">«No no! Non voglio un elefante dentro un boa. Un boa è molto pericoloso e un elefante è molto ingombrante. Dalle mie parti, tutto è piccolo. Ho bisogno di una pecora. Disegnami una pecora». </prosody></speak>

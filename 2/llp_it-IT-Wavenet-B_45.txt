@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB">E lui mi ripeté ancora una volta con dolcezza, come se si trattasse di un fatto molto serio:<prosody pitch="+4st" rate="95%" volume="+6.0dB">«Per favore... disegnami una pecora..</prosody></prosody></speak>

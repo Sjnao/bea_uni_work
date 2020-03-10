@@ -1,0 +1,1 @@
+<speak><prosody pitch="medium">Ah! Sono felice!</prosody></speak>

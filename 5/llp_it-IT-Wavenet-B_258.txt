@@ -1,0 +1,1 @@
+<speak>Ma è ovvio!<break /> Mi rispose, <prosody duration="100ms">come se si trattasse di una cosa evidente.</prosody></speak>

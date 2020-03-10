@@ -1,0 +1,1 @@
+<speak><prosody pitch="-1st" rate="95%" volume="+6.0dB">Ora,<break/> c’erano dei pessimi semi sul pianeta del piccolo principe... erano i semi di baobab.</prosody></speak>
